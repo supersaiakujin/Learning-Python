@@ -60,3 +60,10 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+# temporary
+backup/
+tmp/
+# data directory
+data/
+data
+
